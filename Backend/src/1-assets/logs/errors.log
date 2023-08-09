@@ -1,0 +1,185 @@
+Tue, 08 Aug 2023 08:48:29 GMT
+Route: /api/categories/ not found.
+----------------------------------------Tue, 08 Aug 2023 08:54:19 GMT
+Route: /api/categories/ not found.
+----------------------------------------Tue, 08 Aug 2023 08:54:41 GMT
+Route: /api/categories/ not found.
+----------------------------------------Tue, 08 Aug 2023 09:02:58 GMT
+Route: /api/categories/ not found.
+----------------------------------------Tue, 08 Aug 2023 09:03:20 GMT
+Route: /api/categories/ not found.
+----------------------------------------Tue, 08 Aug 2023 09:05:41 GMT
+connect ECONNREFUSED ::1:3306
+----------------------------------------Tue, 08 Aug 2023 09:07:12 GMT
+connect ECONNREFUSED ::1:3306
+----------------------------------------Tue, 08 Aug 2023 09:07:24 GMT
+connect ECONNREFUSED ::1:3306
+----------------------------------------Tue, 08 Aug 2023 09:12:14 GMT
+connect ECONNREFUSED ::1:3306
+----------------------------------------Tue, 08 Aug 2023 09:17:39 GMT
+connect ECONNREFUSED ::1:3306
+----------------------------------------Tue, 08 Aug 2023 09:33:33 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:33:33 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:33:39 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:33:39 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:33:51 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:33:51 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:33:53 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:33:53 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:35:18 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:35:18 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:37:03 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:37:03 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:40:44 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:40:44 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:40:53 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:40:53 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:41:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:41:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:41:25 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:41:25 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:42:30 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:42:30 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:51:16 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:51:16 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:54:53 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:54:53 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:57:41 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:57:41 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:57:45 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 09:57:45 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:01:44 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:01:44 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:02:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:02:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:02:27 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:02:27 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:11:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:11:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:15:11 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:15:11 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:15:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:15:14 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:13 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:13 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:20 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:20 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:26 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:26 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:34 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:34 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:49 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:49 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:57 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:16:57 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:19:12 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:19:12 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:22:39 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:22:39 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:22:43 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:22:43 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:22:44 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:23:44 GMT
+Missing JWT token
+----------------------------------------Tue, 08 Aug 2023 10:24:08 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:24:08 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:24:10 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\02ac1e2b-e506-428f-9be3-deca868a1100.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:24:20 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:24:23 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:24:50 GMT
+ENOENT: no such file or directory, stat 'C:\4578-94\Class exercises\Northwind - Fullstack\Backend\src\1-assets\images\10ac08d1-1da9-42bf-a45c-f6026b577b94.jpg'
+----------------------------------------Tue, 08 Aug 2023 10:49:46 GMT
+"password" length must be at least 6 characters long
+----------------------------------------Tue, 08 Aug 2023 10:56:02 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 11:46:44 GMT
+ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'password = 'e3c4070ef8288508d1e27dfabde08eb9305bf952fe8a9f484c0fad50f360a5c4e...' at line 3
+----------------------------------------Tue, 08 Aug 2023 11:48:31 GMT
+ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'password = 'cf67ab15875c787382ed400841d7620d31ebf7d731670f7f3e3d79d34f00a981c...' at line 3
+----------------------------------------Tue, 08 Aug 2023 11:49:53 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 11:50:07 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 11:50:59 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 11:56:49 GMT
+ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'password = '025abb34fd4ec8268a6aab8e8242ff7ca5a1a31758f1aeddabd1cc9d4271819df...' at line 3
+----------------------------------------Tue, 08 Aug 2023 12:15:11 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 12:25:14 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 16:54:27 GMT
+Missing JWT token
+----------------------------------------Tue, 08 Aug 2023 16:54:43 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 16:55:34 GMT
+Incorrect username or password.
+----------------------------------------Tue, 08 Aug 2023 17:06:15 GMT
+Route: /api/employees/ not found.
+----------------------------------------

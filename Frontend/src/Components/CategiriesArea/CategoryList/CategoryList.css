@@ -1,0 +1,10 @@
+.CategoryList > table .CategoryList th, .CategoryList td {
+    margin: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.CategoryList img {
+    width: 100px;
+    vertical-align: middle;
+}
